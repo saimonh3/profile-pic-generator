@@ -1,0 +1,1 @@
+<img src="<?php echo e(url('uploads/images/'.$file_id)); ?>">
