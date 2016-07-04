@@ -1,0 +1,9 @@
+.logo h1 {
+    border: 3px dotted gray;
+    padding: 12px;
+    text-align: center;
+}
+.default-img img {
+    width: 450px;
+    height: 350px;
+}
